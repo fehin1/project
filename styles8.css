@@ -1,0 +1,117 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    background-image: url(tolu.png); 
+    background-size: cover;
+}
+
+/* nav {
+    display: flex;
+    background-color: white; 
+}
+
+nav img {
+    width: 60px;
+}
+
+ul button   {
+    margin-left: 300px;
+    /* float: right; 
+
+} */
+
+/* nav h1 {
+    color: beige;
+    padding: 20px 0;
+    margin-left: 20px;
+} */
+
+/* nav h1 a {
+    text-decoration: none;
+    color: black;
+} */
+
+/* nav ul {
+    display: flex;
+    margin: auto; 
+}
+
+nav ul li {
+    list-style: none;
+    color: black;
+    padding: 20px 40px;
+    margin-left: 50px;
+}
+
+nav ul li a::after {
+        content: '';
+        width: 0%;
+        height: 2px;
+        background: #f44336;
+        display: block;
+        margin: auto;
+        transition: 0.5s;
+}
+
+nav ul li a:hover::after {
+    width: 100%;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color:black;
+} */
+
+
+/* button a {
+    text-decoration: none;
+    color: black;
+}
+button {
+    height: 30px;
+    margin-top: 15px;
+    padding: 2px 30px;
+    border-radius: 15px;
+    background-color: transparent;
+    
+} */
+ 
+.main {
+    /* color: white; */
+    color: #ff4200;
+}
+
+.main h1 {
+    text-align: center;
+    margin-top: 150px;
+}
+
+.main p {
+    color: white;
+    font-size: 15px;
+    text-align: center;
+}
+
+
+.main h1 {
+    /* margin-left: 75px; */
+    font-size: 55px;
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.btn button {
+    background-color:#ff4200;
+}
+
+.btn button a {
+    color: white;
+}
